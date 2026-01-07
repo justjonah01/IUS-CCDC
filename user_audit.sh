@@ -1,4 +1,3 @@
-  GNU nano 7.2                            user_audit.sh                                       
 #!/bin/bash
 
 printf "%-15s %-6s %-10s %-25s %-8s %-5s %-5s\n" \
